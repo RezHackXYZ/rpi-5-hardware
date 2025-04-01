@@ -1,6 +1,6 @@
 # Ultrasonic Sensor
 
-## Wiring
+#### Wiring
 
 | Distance Sensor Pin | Raspberry Pi Pin |
 |------------|-----------------|
@@ -9,5 +9,5 @@
 | TRIG       | GPIO 23 (Pin 16) |
 | ECHO       | GPIO 24 (Pin 18) (⚠️ Needs both resistor! ⚠️) |
 
-## Code
+#### Code
 [`Distance Sensor.py`](https://github.com/RezHackXYZ/rpi-5-hardware/blob/main/Distance%20Sensor.py)
