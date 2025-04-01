@@ -1,4 +1,4 @@
-# Ultrasonic Sensor
+# Ultrasonic Distance Sensor
 
 #### Wiring
 
