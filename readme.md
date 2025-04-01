@@ -10,4 +10,4 @@
 | ECHO       | GPIO 24 (Pin 18) (⚠️ Needs both resistor! ⚠️) |
 
 ## Code
-[`Distance Sensor.py`](./Distance Sensor.py)
+[`Distance Sensor.py`](https://github.com/RezHackXYZ/rpi-5-hardware/blob/main/Distance%20Sensor.py)
